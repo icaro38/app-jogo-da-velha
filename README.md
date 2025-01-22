@@ -1,6 +1,6 @@
-# myapp
+# App Jogo da Velha
 
-A new Flutter project.
+Projeto Jogo da Velha em Flutter atividade 4 disciplina Desenvolvimento Web.
 
 ## Getting Started
 
